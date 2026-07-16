@@ -2,7 +2,7 @@
 
 ## Collaborators
 - [Armia Joseph](https://github.com/Armaritto)
-- [Amin Mohamed](https://github.com/Amin-Mohamed1)
+- [Amin Mohamed]([https://github.com/Amin-Mohamed1](https://github.com/Amincsed26))
 - [Andrew Safwat](https://github.com/AndrewSafwat1)
 - [Rafy Hany](https://github.com/RafyHany)
 
